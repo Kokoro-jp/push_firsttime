@@ -1,0 +1,49 @@
+
+/*header
+-----------------------------------------------------------------------*/
+
+.header-logo {
+   width:210px; 
+   margin-top:14px;
+}
+
+.main-nav {
+    align-items: center;
+    display:flex;
+    margin-top:34px;
+    justify-content: space-between;
+}
+
+.main-nav li {
+    margin-left:36px;
+}
+
+
+.nav-list{
+    display:block;
+    list-style-type: none;
+}
+
+span{
+    display: block;
+    font-weight: 700;
+    text-align: center;
+}
+
+.page-header{
+    display:flex;
+}
+
+/*body
+-----------------------------------------------------------------------*/
+
+body{
+  font-family: "游ゴシック", YuGothic, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+
+
+.firstView{
+    background-image: url("https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero-sp.jpg");
+    background-repeat:  no-repeat;
+    background-size:cover;
+}
